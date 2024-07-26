@@ -1,8 +1,8 @@
-Id,Store Name,Street,City,State,ZIP,latitude,longitude
-0,Quick On Your Feet,434 West Second Street,Austin,Texas,78701,30.266,-97.748
-1,Rocky Mountain Run,7301 South Santa Fe Drive,Littleton,Colorado,80120,39.584,-105.025
-2,ATL Sneaker Supply,3110 Roswell Road Northeast,Atlanta,Georgia,30305,33.841,-84.379
-3,Schuylkill Sports,113 East Phillips Street,Coaldale,Pennsylvania,18218,40.824,-75.905
-4,Twin City Training,1320 Lagoon Avenue,Minneapolis,Minnesota,55408,44.949,-93.297
-5,Shoes On The Loop,6350 Delmar Boulevard,St. Louis,Missouri,63130,,
-6,Chucks for Bucks,2230 North Farwell Avenue,Milwaukee,Wisconsin,53202,,
+OBJECTID,Id,Store Name,Street,City,State,ZIP,latitude,longitude
+0,0,Quick On Your Feet,434 West Second Street,Austin,Texas,78701,30.266,-97.748
+1,1,Rocky Mountain Run,7301 South Santa Fe Drive,Littleton,Colorado,80120,39.584,-105.025
+2,2,ATL Sneaker Supply,3110 Roswell Road Northeast,Atlanta,Georgia,30305,33.841,-84.379
+3,3,Schuylkill Sports,113 East Phillips Street,Coaldale,Pennsylvania,18218,40.824,-75.905
+4,4,Twin City Training,1320 Lagoon Avenue,Minneapolis,Minnesota,55408,44.949,-93.297
+5,5,Shoes On The Loop,6350 Delmar Boulevard,St. Louis,Missouri,63130,,
+6,6,Chucks for Bucks,2230 North Farwell Avenue,Milwaukee,Wisconsin,53202,,
