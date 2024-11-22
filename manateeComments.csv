@@ -1,15 +1,371 @@
-Document ID,Agency ID,Docket ID,Tracking Number,Document Type,Posted Date,Received Date,Author Date,Document Subtype,First Name,Last Name,City,State/Province,Zip/Postal Code,Country,Organization Name,Submitter Representative
-FWS-R4-ES-2024-0073-0007,FWS,FWS-R4-ES-2024-0073,m1g-p9t3-hbfj,Public Submission,2024-09-25T04:00Z,2024-09-24T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0008,FWS,FWS-R4-ES-2024-0073,m1g-yn3y-yd3c,Public Submission,2024-09-25T04:00Z,2024-09-24T04:00Z,,Comment(s),Richard,Spotts,Saint George,UT,84790-1553,United States,,
-FWS-R4-ES-2024-0073-0009,FWS,FWS-R4-ES-2024-0073,m1h-8ggx-cqmc,Public Submission,2024-09-25T04:00Z,2024-09-24T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0010,FWS,FWS-R4-ES-2024-0073,m1i-uli7-gks7,Public Submission,2024-09-26T04:00Z,2024-09-26T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0011,FWS,FWS-R4-ES-2024-0073,m1k-ye9u-m8uq,Public Submission,2024-09-27T04:00Z,2024-09-27T04:00Z,,Comment(s),Mykaila,B.,,,,United States,,
-FWS-R4-ES-2024-0073-0012,FWS,FWS-R4-ES-2024-0073,m1p-hc5g-er69,Public Submission,2024-10-02T04:00Z,2024-09-30T04:00Z,,Comment(s),Suze,Peace,DeLand,FL,32724,United States,,
-FWS-R4-ES-2024-0073-0013,FWS,FWS-R4-ES-2024-0073,m1p-ncg5-vczj,Public Submission,2024-10-02T04:00Z,2024-09-30T04:00Z,,Comment(s),Sonya,Guidry,New Smyrna Beach,FL,32168,United States,,
-FWS-R4-ES-2024-0073-0014,FWS,FWS-R4-ES-2024-0073,m1q-smbz-npxc,Public Submission,2024-10-02T04:00Z,2024-10-01T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0015,FWS,FWS-R4-ES-2024-0073,m1x-sk59-of2x,Public Submission,2024-10-07T04:00Z,2024-10-06T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0016,FWS,FWS-R4-ES-2024-0073,m2g-lq6u-38en,Public Submission,2024-10-21T04:00Z,2024-10-19T04:00Z,,Comment(s),Julio,Colon,San Juan,PR,00913,United States,,
-FWS-R4-ES-2024-0073-0017,FWS,FWS-R4-ES-2024-0073,m2j-epur-6464,Public Submission,2024-10-22T04:00Z,2024-10-21T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0018,FWS,FWS-R4-ES-2024-0073,m2j-jl9a-y7ty,Public Submission,2024-10-22T04:00Z,2024-10-21T04:00Z,,Comment(s),Ben,Prater,Washington,DC,20036,United States,Defenders of Wildlife,
-FWS-R4-ES-2024-0073-0019,FWS,FWS-R4-ES-2024-0073,m2n-zp98-8zj2,Public Submission,2024-10-25T04:00Z,2024-10-24T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
-FWS-R4-ES-2024-0073-0020,FWS,FWS-R4-ES-2024-0073,m2q-ic0i-dunm,Public Submission,2024-10-28T04:00Z,2024-10-26T04:00Z,,Comment(s),Anonymous,Anonymous,,,,,,
+Document ID	Agency ID	Docket ID	Tracking Number	Document Type	Posted Date	Received Date	Author Date	Document Subtype	First Name	Last Name	City	State/Province	Zip/Postal Code	Country	Organization Name	Submitter Representative
+FWS-R4-ES-2024-0073-0007	FWS	FWS-R4-ES-2024-0073	m1g-p9t3-hbfj	Public Submission	2024-09-25T04:00Z	2024-09-24T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0008	FWS	FWS-R4-ES-2024-0073	m1g-yn3y-yd3c	Public Submission	2024-09-25T04:00Z	2024-09-24T04:00Z		Comment(s)	Richard	Spotts	Saint George	UT	84790-1553	United States		
+FWS-R4-ES-2024-0073-0009	FWS	FWS-R4-ES-2024-0073	m1h-8ggx-cqmc	Public Submission	2024-09-25T04:00Z	2024-09-24T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0010	FWS	FWS-R4-ES-2024-0073	m1i-uli7-gks7	Public Submission	2024-09-26T04:00Z	2024-09-26T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0011	FWS	FWS-R4-ES-2024-0073	m1k-ye9u-m8uq	Public Submission	2024-09-27T04:00Z	2024-09-27T04:00Z		Comment(s)	Mykaila	B.				United States		
+FWS-R4-ES-2024-0073-0012	FWS	FWS-R4-ES-2024-0073	m1p-hc5g-er69	Public Submission	2024-10-02T04:00Z	2024-09-30T04:00Z		Comment(s)	Suze	Peace	DeLand	FL	32724	United States		
+FWS-R4-ES-2024-0073-0013	FWS	FWS-R4-ES-2024-0073	m1p-ncg5-vczj	Public Submission	2024-10-02T04:00Z	2024-09-30T04:00Z		Comment(s)	Sonya	Guidry	New Smyrna Beach	FL	32168	United States		
+FWS-R4-ES-2024-0073-0014	FWS	FWS-R4-ES-2024-0073	m1q-smbz-npxc	Public Submission	2024-10-02T04:00Z	2024-10-01T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0015	FWS	FWS-R4-ES-2024-0073	m1x-sk59-of2x	Public Submission	2024-10-07T04:00Z	2024-10-06T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0016	FWS	FWS-R4-ES-2024-0073	m2g-lq6u-38en	Public Submission	2024-10-21T04:00Z	2024-10-19T04:00Z		Comment(s)	Julio	Colon	San Juan	PR	00913	United States		
+FWS-R4-ES-2024-0073-0017	FWS	FWS-R4-ES-2024-0073	m2j-epur-6464	Public Submission	2024-10-22T04:00Z	2024-10-21T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0018	FWS	FWS-R4-ES-2024-0073	m2j-jl9a-y7ty	Public Submission	2024-10-22T04:00Z	2024-10-21T04:00Z		Comment(s)	Ben	Prater	Washington	DC	20036	United States	Defenders of Wildlife	
+FWS-R4-ES-2024-0073-0019	FWS	FWS-R4-ES-2024-0073	m2n-zp98-8zj2	Public Submission	2024-10-25T04:00Z	2024-10-24T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0020	FWS	FWS-R4-ES-2024-0073	m2q-ic0i-dunm	Public Submission	2024-10-28T04:00Z	2024-10-26T04:00Z		Comment(s)	Anonymous	Anonymous						
+FWS-R4-ES-2024-0073-0021	FWS	FWS-R4-ES-2024-0073	m2q-ubou-25er	Public Submission	2024-10-28T04:00Z	2024-10-26T04:00Z		Comment(s)	Luke	Heller				United States		
+FWS-R4-ES-2024-0073-0022	FWS	FWS-R4-ES-2024-0073	m2x-hfer-1v6e	Public Submission	2024-11-01T04:00Z	2024-10-31T04:00Z		Comment(s)	Jan	Boudart	Rogers Park, Chicago	IL	60626	United States		
+FWS-R4-ES-2024-0073-0023	FWS	FWS-R4-ES-2024-0073	m2x-jylb-qfxo	Public Submission	2024-11-01T04:00Z	2024-10-31T04:00Z		Comment(s)	Caleb	Merendino				United States		
+FWS-R4-ES-2024-0073-0024	FWS	FWS-R4-ES-2024-0073	m2y-3jm9-mh4h	Public Submission	2024-11-01T04:00Z	2024-10-31T04:00Z		Comment(s)	Todd	Snyder				United States		
+FWS-R4-ES-2024-0073-0025	FWS	FWS-R4-ES-2024-0073	m30-17d3-vpwe	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	debbie	velazquez	Pembroke Pines	Florida				
+FWS-R4-ES-2024-0073-0026	FWS	FWS-R4-ES-2024-0073	m30-18kl-2f8g	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Diane	Batten						
+FWS-R4-ES-2024-0073-0027	FWS	FWS-R4-ES-2024-0073	m30-18ks-s441	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Stephanie	Johnson						
+FWS-R4-ES-2024-0073-0028	FWS	FWS-R4-ES-2024-0073	m30-1ehc-4sub	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Ann	Gudat	Waterford	Michigan				
+FWS-R4-ES-2024-0073-0029	FWS	FWS-R4-ES-2024-0073	m30-1h8u-9bsl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jas	Kundi						
+FWS-R4-ES-2024-0073-0030	FWS	FWS-R4-ES-2024-0073	m30-1mbg-i5dp	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michael	Rynes	Naperville	Illinois				
+FWS-R4-ES-2024-0073-0031	FWS	FWS-R4-ES-2024-0073	m30-1ok5-6jjk	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Maij	Carter						
+FWS-R4-ES-2024-0073-0032	FWS	FWS-R4-ES-2024-0073	m30-1rao-xyyg	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	sara	sang						
+FWS-R4-ES-2024-0073-0033	FWS	FWS-R4-ES-2024-0073	m30-1tme-x2p1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	Brazzell	Louisville	Kentucky				
+FWS-R4-ES-2024-0073-0034	FWS	FWS-R4-ES-2024-0073	m30-1w9q-g4zm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Deborah	Spencer	Billerica	Massachusetts				
+FWS-R4-ES-2024-0073-0035	FWS	FWS-R4-ES-2024-0073	m30-1why-eqgb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chris	Tall	Graham	North Carolina				
+FWS-R4-ES-2024-0073-0036	FWS	FWS-R4-ES-2024-0073	m30-1x77-4n8y	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rose	McQueen	Tallahassee	Florida				
+FWS-R4-ES-2024-0073-0037	FWS	FWS-R4-ES-2024-0073	m30-1xyd-91od	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mark	Hawkins	Chicago	Illinois				
+FWS-R4-ES-2024-0073-0038	FWS	FWS-R4-ES-2024-0073	m30-1yq9-1ov9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kate	McQueen	Hillsborough	North Carolina				
+FWS-R4-ES-2024-0073-0039	FWS	FWS-R4-ES-2024-0073	m30-22dc-2oeb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jan	Howe						
+FWS-R4-ES-2024-0073-0040	FWS	FWS-R4-ES-2024-0073	m30-291d-qqz5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	alexander	orman						
+FWS-R4-ES-2024-0073-0041	FWS	FWS-R4-ES-2024-0073	m30-2dp3-wq92	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Courtney	Worrall						
+FWS-R4-ES-2024-0073-0042	FWS	FWS-R4-ES-2024-0073	m30-2hfp-ro2t	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Elodie	ACCART						
+FWS-R4-ES-2024-0073-0043	FWS	FWS-R4-ES-2024-0073	m30-2jcp-cz76	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michele	Pine	Sarasota	Florida				
+FWS-R4-ES-2024-0073-0044	FWS	FWS-R4-ES-2024-0073	m30-2kjf-y832	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Beverley	Morris	Markfield Leicester					
+FWS-R4-ES-2024-0073-0045	FWS	FWS-R4-ES-2024-0073	m30-2kxl-8hu1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Deanne	ODonnell	Derry	Pennsylvania				
+FWS-R4-ES-2024-0073-0046	FWS	FWS-R4-ES-2024-0073	m30-2mkg-wrsl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michaelle	Dewitt	Findlay	Ohio				
+FWS-R4-ES-2024-0073-0047	FWS	FWS-R4-ES-2024-0073	m30-2rye-wgxt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dave	Wachsman	Edgewater	Florida				
+FWS-R4-ES-2024-0073-0048	FWS	FWS-R4-ES-2024-0073	m30-2y0j-9mst	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Katharina	Mittag	Monroe	Nebraska				
+FWS-R4-ES-2024-0073-0049	FWS	FWS-R4-ES-2024-0073	m30-35rh-qdk9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Pia	Vartabedian	Cranston	Rhode Island				
+FWS-R4-ES-2024-0073-0050	FWS	FWS-R4-ES-2024-0073	m30-37xn-q3bd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lenora	Dernoga	Laurel	Maryland				
+FWS-R4-ES-2024-0073-0051	FWS	FWS-R4-ES-2024-0073	m30-3bpb-e74q	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Edward	Lemieux	Holliston	Massachusetts				
+FWS-R4-ES-2024-0073-0052	FWS	FWS-R4-ES-2024-0073	m30-3d97-nz2n	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michael	Rozdoba						
+FWS-R4-ES-2024-0073-0053	FWS	FWS-R4-ES-2024-0073	m30-3dem-wdnv	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carla	Orr	Woodburn	Oregon				
+FWS-R4-ES-2024-0073-0054	FWS	FWS-R4-ES-2024-0073	m30-3ftx-ag2h	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Melinda	Lowery	Dallas	Texas				
+FWS-R4-ES-2024-0073-0055	FWS	FWS-R4-ES-2024-0073	m30-3gh1-fewi	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Tina	Herzog	Slatington	Pennsylvania				
+FWS-R4-ES-2024-0073-0056	FWS	FWS-R4-ES-2024-0073	m30-3hj6-ll7x	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Liana	Luciano	Aurora	Colorado				
+FWS-R4-ES-2024-0073-0057	FWS	FWS-R4-ES-2024-0073	m30-3i4j-nkyn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	K	Richards	Vinton	Virginia				
+FWS-R4-ES-2024-0073-0058	FWS	FWS-R4-ES-2024-0073	m30-3jzb-h4at	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Ulrike	Strunk	Haysi	Virginia				
+FWS-R4-ES-2024-0073-0059	FWS	FWS-R4-ES-2024-0073	m30-3lbm-6o8a	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Colleen	Keegan	Covington	Kentucky				
+FWS-R4-ES-2024-0073-0060	FWS	FWS-R4-ES-2024-0073	m30-3nbe-ql0c	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mary	Forbes	San Antonio	Texas				
+FWS-R4-ES-2024-0073-0061	FWS	FWS-R4-ES-2024-0073	m30-3s3y-gtr0	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lyn	Thompson	North Plainfield	New Jersey				
+FWS-R4-ES-2024-0073-0062	FWS	FWS-R4-ES-2024-0073	m30-3sil-84eh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Elisabeth	Richter	Virginia Beach	Virginia				
+FWS-R4-ES-2024-0073-0063	FWS	FWS-R4-ES-2024-0073	m30-3smg-06w9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Shawn	Young						
+FWS-R4-ES-2024-0073-0064	FWS	FWS-R4-ES-2024-0073	m30-41kw-0pzo	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Charlene	Andrzeicik	Nashville	Tennessee				
+FWS-R4-ES-2024-0073-0065	FWS	FWS-R4-ES-2024-0073	m30-46l5-4syf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Line	Ringgaard						
+FWS-R4-ES-2024-0073-0066	FWS	FWS-R4-ES-2024-0073	m30-486f-3pwn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	MARIE-FRANCE	PA	Arthes					
+FWS-R4-ES-2024-0073-0067	FWS	FWS-R4-ES-2024-0073	m30-49fw-xv7n	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Isabelle	Rocher	Houilles					
+FWS-R4-ES-2024-0073-0068	FWS	FWS-R4-ES-2024-0073	m30-4ak0-mau6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Robert	Marvonek		Florida				
+FWS-R4-ES-2024-0073-0069	FWS	FWS-R4-ES-2024-0073	m30-4bzj-wads	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	kara	segal						
+FWS-R4-ES-2024-0073-0070	FWS	FWS-R4-ES-2024-0073	m30-4m5k-181w	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Bridget	Irons	Philadelphia	Pennsylvania				
+FWS-R4-ES-2024-0073-0071	FWS	FWS-R4-ES-2024-0073	m30-4meo-y6n6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	O Harshman	Wyoming	Minnesota				
+FWS-R4-ES-2024-0073-0072	FWS	FWS-R4-ES-2024-0073	m30-4pxd-xpv1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chris	Wagner	Dover	Delaware				
+FWS-R4-ES-2024-0073-0073	FWS	FWS-R4-ES-2024-0073	m30-4qp4-8bao	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lynette	Smith						
+FWS-R4-ES-2024-0073-0074	FWS	FWS-R4-ES-2024-0073	m30-53dg-ij5h	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Deb	Hirt	Stillwater	Oklahoma				
+FWS-R4-ES-2024-0073-0075	FWS	FWS-R4-ES-2024-0073	m30-564g-8ea6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eric	Sell	Allenton	Wisconsin				
+FWS-R4-ES-2024-0073-0076	FWS	FWS-R4-ES-2024-0073	m30-5bd2-w9z7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kelly	Wells	Albuquerque	New Mexico				
+FWS-R4-ES-2024-0073-0077	FWS	FWS-R4-ES-2024-0073	m30-5bon-6103	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Peterson	Charlotte	North Carolina				
+FWS-R4-ES-2024-0073-0078	FWS	FWS-R4-ES-2024-0073	m30-5c5j-e65y	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Cathy	Koch	Gahanna	Ohio				
+FWS-R4-ES-2024-0073-0079	FWS	FWS-R4-ES-2024-0073	m30-5esn-0zcc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Candy	Bowman	Placerville	California				
+FWS-R4-ES-2024-0073-0080	FWS	FWS-R4-ES-2024-0073	m30-5fkc-vfop	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jules	Jain	Paris					
+FWS-R4-ES-2024-0073-0081	FWS	FWS-R4-ES-2024-0073	m30-5hpx-vk7x	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jan	Zembko						
+FWS-R4-ES-2024-0073-0082	FWS	FWS-R4-ES-2024-0073	m30-5k3t-ih92	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Victoria	Shepherd	Glendale	California				
+FWS-R4-ES-2024-0073-0083	FWS	FWS-R4-ES-2024-0073	m30-5k7m-5w4o	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	R	A	Wellington	Florida				
+FWS-R4-ES-2024-0073-0084	FWS	FWS-R4-ES-2024-0073	m30-5k8k-j3eo	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Marina	Murphy		Virginia				
+FWS-R4-ES-2024-0073-0085	FWS	FWS-R4-ES-2024-0073	m30-5n02-t83a	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Cynthia	Walton	Onancock	Virginia				
+FWS-R4-ES-2024-0073-0086	FWS	FWS-R4-ES-2024-0073	m30-5oqu-fyaw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Trois	Moore	Goffstown	New Hampshire				
+FWS-R4-ES-2024-0073-0087	FWS	FWS-R4-ES-2024-0073	m30-5xxz-nptm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Koehl	Ormond Beach	Florida				
+FWS-R4-ES-2024-0073-0088	FWS	FWS-R4-ES-2024-0073	m30-5yxy-3j19	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jennifer	Morea	Bronx	New York				
+FWS-R4-ES-2024-0073-0089	FWS	FWS-R4-ES-2024-0073	m30-61dq-on7l	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sandra	Farrell	Pittsford	New York				
+FWS-R4-ES-2024-0073-0090	FWS	FWS-R4-ES-2024-0073	m30-658y-seib	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mike	Chyba	Chicago	Illinois				
+FWS-R4-ES-2024-0073-0091	FWS	FWS-R4-ES-2024-0073	m30-65yz-qju7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mary	Jeffrey	Denver	North Carolina				
+FWS-R4-ES-2024-0073-0092	FWS	FWS-R4-ES-2024-0073	m30-68o3-uqve	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Maria	Williamson	Crosby	Texas				
+FWS-R4-ES-2024-0073-0093	FWS	FWS-R4-ES-2024-0073	m30-6995-5hov	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Gary	Cianciarulo	San Francisco	California				
+FWS-R4-ES-2024-0073-0094	FWS	FWS-R4-ES-2024-0073	m30-6aog-dhly	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lou	Calderone	Jupiter	Florida				
+FWS-R4-ES-2024-0073-0095	FWS	FWS-R4-ES-2024-0073	m30-6axx-zm5v	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Linda	Calderone	Jupiter	Florida				
+FWS-R4-ES-2024-0073-0096	FWS	FWS-R4-ES-2024-0073	m30-6b9t-2ejw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Danielle	Calderone	Jupiter	Florida				
+FWS-R4-ES-2024-0073-0097	FWS	FWS-R4-ES-2024-0073	m30-6bj4-ybu0	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Diana	Calderone	Jupiter	Florida				
+FWS-R4-ES-2024-0073-0098	FWS	FWS-R4-ES-2024-0073	m30-6bv5-czsb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Linda	Calderone	Jupiter	Florida				
+FWS-R4-ES-2024-0073-0099	FWS	FWS-R4-ES-2024-0073	m30-6cuw-x20l	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Leonora	Xhrouet	Davie	Florida				
+FWS-R4-ES-2024-0073-0100	FWS	FWS-R4-ES-2024-0073	m30-6dv7-w17j	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rosa	Marmolejo	Long Branch	New Jersey				
+FWS-R4-ES-2024-0073-0101	FWS	FWS-R4-ES-2024-0073	m30-6f1y-jroz	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Joseph	Collins	South Richmond Hill	New York				
+FWS-R4-ES-2024-0073-0102	FWS	FWS-R4-ES-2024-0073	m30-6hvw-6onq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Robbin	Luther	Charlestown	Rhode Island				
+FWS-R4-ES-2024-0073-0103	FWS	FWS-R4-ES-2024-0073	m30-6ix2-i2wn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Phyllis	Grande	New York	New York				
+FWS-R4-ES-2024-0073-0104	FWS	FWS-R4-ES-2024-0073	m30-6jl6-6o0u	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Korg	Onze	Santa Fe	New Mexico				
+FWS-R4-ES-2024-0073-0105	FWS	FWS-R4-ES-2024-0073	m30-6ob6-wyac	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	sara	rahbar	Great Neck	New York				
+FWS-R4-ES-2024-0073-0106	FWS	FWS-R4-ES-2024-0073	m30-6sba-0z0d	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mark	Gorsetman	Whitestone	New York				
+FWS-R4-ES-2024-0073-0107	FWS	FWS-R4-ES-2024-0073	m30-6udl-u1hu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Aviram	sofir	Hillsboro	Oregon				
+FWS-R4-ES-2024-0073-0108	FWS	FWS-R4-ES-2024-0073	m30-6wde-frhh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Glen	Venezio	San Juan	Puerto Rico				
+FWS-R4-ES-2024-0073-0109	FWS	FWS-R4-ES-2024-0073	m30-70gz-jphc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Diana	Fries	Covington	Washington				
+FWS-R4-ES-2024-0073-0110	FWS	FWS-R4-ES-2024-0073	m30-75jx-ja1i	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Linda	Winchester	Norristown	Pennsylvania				
+FWS-R4-ES-2024-0073-0111	FWS	FWS-R4-ES-2024-0073	m30-77az-io12	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Fridolin	Lesch	Galesburg	Kansas				
+FWS-R4-ES-2024-0073-0112	FWS	FWS-R4-ES-2024-0073	m30-79x7-6zht	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sandra	Boylston	Sanford	Florida				
+FWS-R4-ES-2024-0073-0113	FWS	FWS-R4-ES-2024-0073	m30-7bd2-dsvh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Alison	Yates	Bolton					
+FWS-R4-ES-2024-0073-0114	FWS	FWS-R4-ES-2024-0073	m30-7bi3-78r1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sharon	Newman	West Chester	Pennsylvania				
+FWS-R4-ES-2024-0073-0115	FWS	FWS-R4-ES-2024-0073	m30-7c2c-vuc2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jeniffer	Graham	Kingwood	West Virginia				
+FWS-R4-ES-2024-0073-0116	FWS	FWS-R4-ES-2024-0073	m30-7fl4-aaq1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Karen	Spradlin	Jacksonville	Alabama				
+FWS-R4-ES-2024-0073-0117	FWS	FWS-R4-ES-2024-0073	m30-7ic2-bscw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sarah	Burke	Bennington	Vermont				
+FWS-R4-ES-2024-0073-0118	FWS	FWS-R4-ES-2024-0073	m30-7j9a-o924	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Pamylle	Greinke	Peconic	New York				
+FWS-R4-ES-2024-0073-0119	FWS	FWS-R4-ES-2024-0073	m30-7jyj-xci4	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	GÃ¶tz						
+FWS-R4-ES-2024-0073-0120	FWS	FWS-R4-ES-2024-0073	m30-7pqa-tg2j	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Heather	Cross	Belleville	Michigan				
+FWS-R4-ES-2024-0073-0121	FWS	FWS-R4-ES-2024-0073	m30-7pze-f14v	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Milva	Tamburro	Stamford	Connecticut				
+FWS-R4-ES-2024-0073-0122	FWS	FWS-R4-ES-2024-0073	m30-7rky-zow0	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dean	Grice	Vab	Virginia				
+FWS-R4-ES-2024-0073-0123	FWS	FWS-R4-ES-2024-0073	m30-7u0u-yvcp	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rosamund	Downing	Pawcatuck	Connecticut				
+FWS-R4-ES-2024-0073-0124	FWS	FWS-R4-ES-2024-0073	m30-7uy3-81i7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Stacey	Larson	Hghlnds Ranch	Colorado				
+FWS-R4-ES-2024-0073-0125	FWS	FWS-R4-ES-2024-0073	m30-7ymh-qpeg	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eileen	Fazzini	Oakland Gardens	New York				
+FWS-R4-ES-2024-0073-0126	FWS	FWS-R4-ES-2024-0073	m30-7yro-iooh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Ingrid	Alpha	Crawfordsville	Indiana				
+FWS-R4-ES-2024-0073-0127	FWS	FWS-R4-ES-2024-0073	m30-83g4-xbyb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kathy	Flocco-McMaster	Absecon	New Jersey				
+FWS-R4-ES-2024-0073-0128	FWS	FWS-R4-ES-2024-0073	m30-83uh-dbym	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Hunter	Klapperich	Jim Falls	Wisconsin				
+FWS-R4-ES-2024-0073-0129	FWS	FWS-R4-ES-2024-0073	m30-856x-g8zh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carol	Smith	Omaha	Nebraska				
+FWS-R4-ES-2024-0073-0130	FWS	FWS-R4-ES-2024-0073	m30-862u-rcr1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christy	French	Powell	Tennessee				
+FWS-R4-ES-2024-0073-0131	FWS	FWS-R4-ES-2024-0073	m30-88jy-g2wb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jasmin	Engel	Darmstadt					
+FWS-R4-ES-2024-0073-0132	FWS	FWS-R4-ES-2024-0073	m30-8ai8-if0l	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Twyla	Douaire	Whitmore Lake	Michigan				
+FWS-R4-ES-2024-0073-0133	FWS	FWS-R4-ES-2024-0073	m30-8cey-unrz	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Andrew	Willman	Fridley	Minnesota				
+FWS-R4-ES-2024-0073-0134	FWS	FWS-R4-ES-2024-0073	m30-8cfw-ixnw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dorri	Lawyer	Murrieta	California				
+FWS-R4-ES-2024-0073-0135	FWS	FWS-R4-ES-2024-0073	m30-8dnw-va3e	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Krys	McConville	Columbia Falls	Montana				
+FWS-R4-ES-2024-0073-0136	FWS	FWS-R4-ES-2024-0073	m30-8fdi-09uv	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Berenice	Becerra Torres	Los Reyes De Salgado					
+FWS-R4-ES-2024-0073-0137	FWS	FWS-R4-ES-2024-0073	m30-8k69-f2nb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Glen	Venezio	San Juan	Puerto Rico				
+FWS-R4-ES-2024-0073-0138	FWS	FWS-R4-ES-2024-0073	m30-8mdh-cksv	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Stella	Kleiner	Gossau Zh					
+FWS-R4-ES-2024-0073-0139	FWS	FWS-R4-ES-2024-0073	m30-8o8h-ei3m	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dianne	M Klaes	Carleton	Michigan				
+FWS-R4-ES-2024-0073-0140	FWS	FWS-R4-ES-2024-0073	m30-8qjm-syu5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kelly	Riley	Hatfield	Pennsylvania				
+FWS-R4-ES-2024-0073-0141	FWS	FWS-R4-ES-2024-0073	m30-8sjz-sjlp	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Gre	Perr						
+FWS-R4-ES-2024-0073-0142	FWS	FWS-R4-ES-2024-0073	m30-8xq3-7d4y	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Meredith	Erickson						
+FWS-R4-ES-2024-0073-0143	FWS	FWS-R4-ES-2024-0073	m30-8yin-cbtr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	Kaminski	Bridgeport	Connecticut				
+FWS-R4-ES-2024-0073-0144	FWS	FWS-R4-ES-2024-0073	m30-913j-05zz	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Vicki	Wheeler	Deshler	Ohio				
+FWS-R4-ES-2024-0073-0145	FWS	FWS-R4-ES-2024-0073	m30-91jq-jgk2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Elsy	Shallman						
+FWS-R4-ES-2024-0073-0146	FWS	FWS-R4-ES-2024-0073	m30-91l1-swie	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	dawn	kenyon	Greenfield Center	New York				
+FWS-R4-ES-2024-0073-0147	FWS	FWS-R4-ES-2024-0073	m30-920x-px3k	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Theressa	Hyde	Edinburgh	Florida				
+FWS-R4-ES-2024-0073-0148	FWS	FWS-R4-ES-2024-0073	m30-92jc-6h8q	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Deepak	Dadlani	Doral	Florida				
+FWS-R4-ES-2024-0073-0149	FWS	FWS-R4-ES-2024-0073	m30-92ji-nfhs	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sally	Jahnke	Fort Atkinson	Wisconsin				
+FWS-R4-ES-2024-0073-0150	FWS	FWS-R4-ES-2024-0073	m30-93nx-xbvm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Annette	Collins	Hudson	Massachusetts				
+FWS-R4-ES-2024-0073-0151	FWS	FWS-R4-ES-2024-0073	m30-9420-q9lj	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kevin	Crupi	Marquette	Michigan				
+FWS-R4-ES-2024-0073-0152	FWS	FWS-R4-ES-2024-0073	m30-94jo-fn43	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Josephine	Biagi		Florida				
+FWS-R4-ES-2024-0073-0153	FWS	FWS-R4-ES-2024-0073	m30-9b3t-16d9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christi	Dillon	Mooresville	North Carolina				
+FWS-R4-ES-2024-0073-0154	FWS	FWS-R4-ES-2024-0073	m30-9d6r-2ss2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	meg	Rasmussen	Pensacola	Florida				
+FWS-R4-ES-2024-0073-0155	FWS	FWS-R4-ES-2024-0073	m30-9fr0-ri63	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Shawn	Winters	New York	New York				
+FWS-R4-ES-2024-0073-0156	FWS	FWS-R4-ES-2024-0073	m30-9jdj-dfdd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jodie	Roberts	Homer	Michigan				
+FWS-R4-ES-2024-0073-0157	FWS	FWS-R4-ES-2024-0073	m30-9o39-jtfv	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Roland	D'Amour	New York	New York				
+FWS-R4-ES-2024-0073-0158	FWS	FWS-R4-ES-2024-0073	m30-9pdh-su8r	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Brandi	Bastian	Indian Head	Maryland				
+FWS-R4-ES-2024-0073-0159	FWS	FWS-R4-ES-2024-0073	m30-9poo-j3ix	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kathleen	Kirchner		Colorado				
+FWS-R4-ES-2024-0073-0160	FWS	FWS-R4-ES-2024-0073	m30-9q3q-5xwr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Bobbie	Zawkiewicz	Sacramento	California				
+FWS-R4-ES-2024-0073-0161	FWS	FWS-R4-ES-2024-0073	m30-9q5i-ukv2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rev. David	Sickles	Willoughby	Ohio				
+FWS-R4-ES-2024-0073-0162	FWS	FWS-R4-ES-2024-0073	m30-9uk9-3nyc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Frances-Marie	Hankin	Ventura	California				
+FWS-R4-ES-2024-0073-0163	FWS	FWS-R4-ES-2024-0073	m30-9v0y-usdl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dara	Pegg	Conway	South Carolina				
+FWS-R4-ES-2024-0073-0164	FWS	FWS-R4-ES-2024-0073	m30-9v45-tmht	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Leslie	Gabbard						
+FWS-R4-ES-2024-0073-0165	FWS	FWS-R4-ES-2024-0073	m30-9yqp-htlm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Neste	High Point	North Carolina				
+FWS-R4-ES-2024-0073-0166	FWS	FWS-R4-ES-2024-0073	m30-aa58-txr5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rebekah	Brown-Wiseman	Wilton Manors	Florida				
+FWS-R4-ES-2024-0073-0167	FWS	FWS-R4-ES-2024-0073	m30-abow-uwur	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	John	Sherman-Jones	Limestone	Michigan				
+FWS-R4-ES-2024-0073-0168	FWS	FWS-R4-ES-2024-0073	m30-acj3-979g	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Brenda	Steinmetz	Mapleville	Rhode Island				
+FWS-R4-ES-2024-0073-0169	FWS	FWS-R4-ES-2024-0073	m30-ad0b-g2bm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	LAUREN	ROTONDO	Melrose	Massachusetts				
+FWS-R4-ES-2024-0073-0170	FWS	FWS-R4-ES-2024-0073	m30-addq-bkkj	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	WILLIAM	ADREANI	Melrose	Massachusetts				
+FWS-R4-ES-2024-0073-0171	FWS	FWS-R4-ES-2024-0073	m30-adqi-rmga	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Geraldine	Card	Exeter	California				
+FWS-R4-ES-2024-0073-0172	FWS	FWS-R4-ES-2024-0073	m30-ah3i-q31g	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	SETH	GELLER	Los Angeles	California				
+FWS-R4-ES-2024-0073-0173	FWS	FWS-R4-ES-2024-0073	m30-ajia-qln2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Tyler	Harrington	Schuyler Falls	New York				
+FWS-R4-ES-2024-0073-0174	FWS	FWS-R4-ES-2024-0073	m30-ammr-z4ef	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	MacMurray	Little Falls	New Jersey				
+FWS-R4-ES-2024-0073-0175	FWS	FWS-R4-ES-2024-0073	m30-anfn-fwvb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christopher	Tumolo	Danielson	Connecticut				
+FWS-R4-ES-2024-0073-0176	FWS	FWS-R4-ES-2024-0073	m30-ap0f-wx4r	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Joyce	Coogan		Colorado				
+FWS-R4-ES-2024-0073-0177	FWS	FWS-R4-ES-2024-0073	m30-arl6-t7k0	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Joan	Miller	Newton	New Jersey				
+FWS-R4-ES-2024-0073-0178	FWS	FWS-R4-ES-2024-0073	m30-aryv-rkrj	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Alfred	Pannone	Cranston	Rhode Island				
+FWS-R4-ES-2024-0073-0179	FWS	FWS-R4-ES-2024-0073	m30-as4g-pgwq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kim	Martin	Princeton	West Virginia				
+FWS-R4-ES-2024-0073-0180	FWS	FWS-R4-ES-2024-0073	m30-avl0-wbhw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Roger	Brenton						
+FWS-R4-ES-2024-0073-0181	FWS	FWS-R4-ES-2024-0073	m30-b0so-nkj2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lindsey	Baldewicz	Cudahy	Wisconsin				
+FWS-R4-ES-2024-0073-0182	FWS	FWS-R4-ES-2024-0073	m30-b34h-coxe	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Roseann	Trezza	Aberdeen	New Jersey				
+FWS-R4-ES-2024-0073-0183	FWS	FWS-R4-ES-2024-0073	m30-b6wb-l2ga	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Vanessa	Van Doorne						
+FWS-R4-ES-2024-0073-0184	FWS	FWS-R4-ES-2024-0073	m30-b8n3-57tl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	JOAN	Rossignol	Milford	Delaware				
+FWS-R4-ES-2024-0073-0185	FWS	FWS-R4-ES-2024-0073	m30-bafw-l6js	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dennis	Tackett		Virginia				
+FWS-R4-ES-2024-0073-0186	FWS	FWS-R4-ES-2024-0073	m30-beel-bwu3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	heidi	ahlstrand	Owatonna	Minnesota				
+FWS-R4-ES-2024-0073-0187	FWS	FWS-R4-ES-2024-0073	m30-belg-ebr3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Madeleine	Burrin						
+FWS-R4-ES-2024-0073-0188	FWS	FWS-R4-ES-2024-0073	m30-bi08-zi3p	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Catherine	Cerqua	Telford	Pennsylvania				
+FWS-R4-ES-2024-0073-0189	FWS	FWS-R4-ES-2024-0073	m30-bkam-lqpi	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jane	Broendel	Washington	District of Columbia				
+FWS-R4-ES-2024-0073-0190	FWS	FWS-R4-ES-2024-0073	m30-blyt-9kbr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	andy	sessa	Brooklyn	New York				
+FWS-R4-ES-2024-0073-0191	FWS	FWS-R4-ES-2024-0073	m30-bn89-88it	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	james	jackson	Bailey	Colorado				
+FWS-R4-ES-2024-0073-0192	FWS	FWS-R4-ES-2024-0073	m30-boiy-juaa	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Victoria	Miller	Encino	California				
+FWS-R4-ES-2024-0073-0193	FWS	FWS-R4-ES-2024-0073	m30-bpgt-jrf4	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Danielle	Augustino						
+FWS-R4-ES-2024-0073-0194	FWS	FWS-R4-ES-2024-0073	m30-bqex-jtho	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kimberly	Carignan	Shaker Heights	Ohio				
+FWS-R4-ES-2024-0073-0195	FWS	FWS-R4-ES-2024-0073	m30-brp3-78ng	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michael	Thometz	Walnut Creek	California				
+FWS-R4-ES-2024-0073-0196	FWS	FWS-R4-ES-2024-0073	m30-bs94-45qi	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eva	Schmelzer	Louisville	Kentucky				
+FWS-R4-ES-2024-0073-0197	FWS	FWS-R4-ES-2024-0073	m30-budh-utzu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Elisabeth	Bechmann	St PÃ¶lten					
+FWS-R4-ES-2024-0073-0198	FWS	FWS-R4-ES-2024-0073	m30-buvi-csm5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Brandy	Beazley	Ladysmith	Virginia				
+FWS-R4-ES-2024-0073-0199	FWS	FWS-R4-ES-2024-0073	m30-bxzv-vvg1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	As	Dad						
+FWS-R4-ES-2024-0073-0200	FWS	FWS-R4-ES-2024-0073	m30-by9c-penf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Heidi	Peacock	Brentwood	New Hampshire				
+FWS-R4-ES-2024-0073-0201	FWS	FWS-R4-ES-2024-0073	m30-c07a-24mm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sarah	McGee						
+FWS-R4-ES-2024-0073-0202	FWS	FWS-R4-ES-2024-0073	m30-c2vl-wudn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	retro	jet	Mckenna	Washington				
+FWS-R4-ES-2024-0073-0203	FWS	FWS-R4-ES-2024-0073	m30-c57l-3oew	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Ellen	Gutfleisch	Sussex	Wisconsin				
+FWS-R4-ES-2024-0073-0204	FWS	FWS-R4-ES-2024-0073	m30-c8to-tonn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Julia	Cranmer	Mount Holly	New Jersey				
+FWS-R4-ES-2024-0073-0205	FWS	FWS-R4-ES-2024-0073	m30-cdkp-lm6r	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sherri	Midkiff	Salt Rock	West Virginia				
+FWS-R4-ES-2024-0073-0206	FWS	FWS-R4-ES-2024-0073	m30-cej7-psk7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sylvia	Thomas	Jacksonville	Florida				
+FWS-R4-ES-2024-0073-0207	FWS	FWS-R4-ES-2024-0073	m30-cga8-w2pr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Deepak	Dadlani	Doral	Florida				
+FWS-R4-ES-2024-0073-0208	FWS	FWS-R4-ES-2024-0073	m30-ck8s-a81i	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	John	Magee	Guyton	Georgia				
+FWS-R4-ES-2024-0073-0209	FWS	FWS-R4-ES-2024-0073	m30-ckk0-6lcw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dianne	Baker		Texas				
+FWS-R4-ES-2024-0073-0210	FWS	FWS-R4-ES-2024-0073	m30-cqwy-xtpz	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sable	Kassa		California				
+FWS-R4-ES-2024-0073-0211	FWS	FWS-R4-ES-2024-0073	m30-csc6-0at3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Bessie	Cortez		California				
+FWS-R4-ES-2024-0073-0212	FWS	FWS-R4-ES-2024-0073	m30-cy58-o3v5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Richard	Solomon		California				
+FWS-R4-ES-2024-0073-0213	FWS	FWS-R4-ES-2024-0073	m30-d20q-b6g2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lori	Ugolik	Silver Springs	Nevada				
+FWS-R4-ES-2024-0073-0214	FWS	FWS-R4-ES-2024-0073	m30-d58a-81hn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	LaÃ«titia	Bogen	New York	New York				
+FWS-R4-ES-2024-0073-0215	FWS	FWS-R4-ES-2024-0073	m30-d6zz-0h0p	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sandra	Arapoudi						
+FWS-R4-ES-2024-0073-0216	FWS	FWS-R4-ES-2024-0073	m30-dblq-ma7r	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Charlotte	Burns	Dallas	Texas				
+FWS-R4-ES-2024-0073-0217	FWS	FWS-R4-ES-2024-0073	m30-dhb6-dz5s	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sherry	Macias						
+FWS-R4-ES-2024-0073-0218	FWS	FWS-R4-ES-2024-0073	m30-dihz-wv41	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Amy A	Houbre	Plymouth	Massachusetts				
+FWS-R4-ES-2024-0073-0219	FWS	FWS-R4-ES-2024-0073	m30-djom-4wya	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Margaret	Moran	CARLISLE					
+FWS-R4-ES-2024-0073-0220	FWS	FWS-R4-ES-2024-0073	m30-dmss-dsh8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jacqueline	Schmidt	Watervliet	Michigan				
+FWS-R4-ES-2024-0073-0221	FWS	FWS-R4-ES-2024-0073	m30-dqao-uwtp	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Anita	Wisch	Santa Clarita	California				
+FWS-R4-ES-2024-0073-0222	FWS	FWS-R4-ES-2024-0073	m30-dqyf-lija	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Anita	Wisch	Santa Clarita	California				
+FWS-R4-ES-2024-0073-0223	FWS	FWS-R4-ES-2024-0073	m30-drpj-5uhc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Anita	Wisch	Santa Clarita	California				
+FWS-R4-ES-2024-0073-0224	FWS	FWS-R4-ES-2024-0073	m30-dt4z-u7bt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jill	Mulato						
+FWS-R4-ES-2024-0073-0225	FWS	FWS-R4-ES-2024-0073	m30-dwwi-1vt3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Martha	Stopa	Darien	Illinois				
+FWS-R4-ES-2024-0073-0226	FWS	FWS-R4-ES-2024-0073	m30-dxui-x9ow	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Patricia	Dobson	Woodland Park	Colorado				
+FWS-R4-ES-2024-0073-0227	FWS	FWS-R4-ES-2024-0073	m30-dyia-cces	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Glenda	V	Miami	Florida				
+FWS-R4-ES-2024-0073-0228	FWS	FWS-R4-ES-2024-0073	m30-e2ea-hphm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Stacey	Fulton	Van Buren	Arkansas				
+FWS-R4-ES-2024-0073-0229	FWS	FWS-R4-ES-2024-0073	m30-e4ry-rit5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rhonda	Johnson	Aylett	Virginia				
+FWS-R4-ES-2024-0073-0230	FWS	FWS-R4-ES-2024-0073	m30-e7r9-raad	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Adriana	Nunez	Miami	Florida				
+FWS-R4-ES-2024-0073-0231	FWS	FWS-R4-ES-2024-0073	m30-e7y7-snc6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kermit	Cuff	Mountain View	California				
+FWS-R4-ES-2024-0073-0232	FWS	FWS-R4-ES-2024-0073	m30-ea6r-i5uo	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Heather	Halvorson Wolver						
+FWS-R4-ES-2024-0073-0233	FWS	FWS-R4-ES-2024-0073	m30-eam9-7agt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Melissa	Gilmer	Valrico	Florida				
+FWS-R4-ES-2024-0073-0234	FWS	FWS-R4-ES-2024-0073	m30-ecpz-zdtm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	ayn	silverman	New York	New York				
+FWS-R4-ES-2024-0073-0235	FWS	FWS-R4-ES-2024-0073	m30-eisc-xbg9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jennifer	Lanzer	Davenport	Florida				
+FWS-R4-ES-2024-0073-0236	FWS	FWS-R4-ES-2024-0073	m30-em92-7kaq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sam	Aldiero	Trenton	New Jersey				
+FWS-R4-ES-2024-0073-0237	FWS	FWS-R4-ES-2024-0073	m30-es6k-oztu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Amanda	Gordon	Sanford	Florida				
+FWS-R4-ES-2024-0073-0238	FWS	FWS-R4-ES-2024-0073	m30-et88-0qeg	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janet	Denti	Fort Lauderdale	Florida				
+FWS-R4-ES-2024-0073-0239	FWS	FWS-R4-ES-2024-0073	m30-eu0p-92za	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janet	Denti	Fort Lauderdale	Florida				
+FWS-R4-ES-2024-0073-0240	FWS	FWS-R4-ES-2024-0073	m30-eue9-mwf6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janet	Denti	Pompano Beach	Florida				
+FWS-R4-ES-2024-0073-0241	FWS	FWS-R4-ES-2024-0073	m30-euoh-7l72	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janet	Denti	Fort Lauderdale	Florida				
+FWS-R4-ES-2024-0073-0242	FWS	FWS-R4-ES-2024-0073	m30-ewyb-wsao	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Thomas	Cope	Medina	Ohio				
+FWS-R4-ES-2024-0073-0243	FWS	FWS-R4-ES-2024-0073	m30-f0au-kqfr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Laura	Guttridge						
+FWS-R4-ES-2024-0073-0244	FWS	FWS-R4-ES-2024-0073	m30-f0m0-1a6d	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Maryann	Staron	Hometown	Illinois				
+FWS-R4-ES-2024-0073-0245	FWS	FWS-R4-ES-2024-0073	m30-f0s1-o34e	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rocco	Frangione	Cambridge	Massachusetts				
+FWS-R4-ES-2024-0073-0246	FWS	FWS-R4-ES-2024-0073	m30-f1ov-n7pl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Donna	Hart	Fredericksburg	Virginia				
+FWS-R4-ES-2024-0073-0247	FWS	FWS-R4-ES-2024-0073	m30-f6a7-16kw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janet	Christian	Beavercreek	Ohio				
+FWS-R4-ES-2024-0073-0248	FWS	FWS-R4-ES-2024-0073	m30-f7t5-m7kc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Allison	Millman						
+FWS-R4-ES-2024-0073-0249	FWS	FWS-R4-ES-2024-0073	m30-fbzn-hal6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Nadine	Hatcher	Camarillo	California				
+FWS-R4-ES-2024-0073-0250	FWS	FWS-R4-ES-2024-0073	m30-ffj2-cos3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rocco	Frangione	Cambridge	Massachusetts				
+FWS-R4-ES-2024-0073-0251	FWS	FWS-R4-ES-2024-0073	m30-fg6k-eytj	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Nancy	Sowersby	Roseburg	Oregon				
+FWS-R4-ES-2024-0073-0252	FWS	FWS-R4-ES-2024-0073	m30-fgi6-dku8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kristin	Campbell	Waconia	Minnesota				
+FWS-R4-ES-2024-0073-0253	FWS	FWS-R4-ES-2024-0073	m30-fj80-ue2s	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Kathy	Hope						
+FWS-R4-ES-2024-0073-0254	FWS	FWS-R4-ES-2024-0073	m30-fjx9-gefq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	shan	Bramley	Manchester	New Hampshire				
+FWS-R4-ES-2024-0073-0255	FWS	FWS-R4-ES-2024-0073	m30-fkg7-q66s	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Harley	Khaang	Elkridge	Maryland				
+FWS-R4-ES-2024-0073-0256	FWS	FWS-R4-ES-2024-0073	m30-fnh6-omxb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	A J	Hawkins						
+FWS-R4-ES-2024-0073-0257	FWS	FWS-R4-ES-2024-0073	m30-fpeh-lttl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Marta	Boieri	Brooklyn	New York				
+FWS-R4-ES-2024-0073-0258	FWS	FWS-R4-ES-2024-0073	m30-fs3m-bkf6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	H	M	Rock Spring	Georgia				
+FWS-R4-ES-2024-0073-0259	FWS	FWS-R4-ES-2024-0073	m30-fsfe-a1ar	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jeanie	Masco	Brick	New Jersey				
+FWS-R4-ES-2024-0073-0260	FWS	FWS-R4-ES-2024-0073	m30-g41f-3urm	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carrie	Chaffin	Lake Havasu City	Arizona				
+FWS-R4-ES-2024-0073-0261	FWS	FWS-R4-ES-2024-0073	m30-g7oz-o1rj	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carrie	Pilger	Bellingham	Washington				
+FWS-R4-ES-2024-0073-0262	FWS	FWS-R4-ES-2024-0073	m30-gbqg-v4na	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	isabelle	boisgard						
+FWS-R4-ES-2024-0073-0263	FWS	FWS-R4-ES-2024-0073	m30-gcgz-vkkd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Barbara	Cole						
+FWS-R4-ES-2024-0073-0264	FWS	FWS-R4-ES-2024-0073	m30-ggsb-ujrl	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Samuel	Durkin	Fairfield	California				
+FWS-R4-ES-2024-0073-0265	FWS	FWS-R4-ES-2024-0073	m30-glhx-5emu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Elderton	Bayville	New Jersey				
+FWS-R4-ES-2024-0073-0266	FWS	FWS-R4-ES-2024-0073	m30-gmjn-lu9b	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	janet	forman	New York	New York				
+FWS-R4-ES-2024-0073-0267	FWS	FWS-R4-ES-2024-0073	m30-gohj-i6ys	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Steve	Osowecki	Meriden	Connecticut				
+FWS-R4-ES-2024-0073-0268	FWS	FWS-R4-ES-2024-0073	m30-gud9-kwmw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jim	Rogers	Woodstock	Georgia				
+FWS-R4-ES-2024-0073-0269	FWS	FWS-R4-ES-2024-0073	m30-h5fh-ekpt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mark	Koritz	Atlanta	Georgia				
+FWS-R4-ES-2024-0073-0270	FWS	FWS-R4-ES-2024-0073	m30-hb60-wbbi	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Linda	Andrews						
+FWS-R4-ES-2024-0073-0271	FWS	FWS-R4-ES-2024-0073	m30-hgjf-0spe	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Terrie	Williams	Vidor	Texas				
+FWS-R4-ES-2024-0073-0272	FWS	FWS-R4-ES-2024-0073	m30-hgyg-816t	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	patricia	beasley	Winter Park	Florida				
+FWS-R4-ES-2024-0073-0273	FWS	FWS-R4-ES-2024-0073	m30-hq0k-ajpd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chris	R						
+FWS-R4-ES-2024-0073-0274	FWS	FWS-R4-ES-2024-0073	m30-hqj6-1yoq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Marilyn	Thorson	Shelbyville	Indiana				
+FWS-R4-ES-2024-0073-0275	FWS	FWS-R4-ES-2024-0073	m30-hrs0-znaf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Cristina	Calle	Olympia	Washington				
+FWS-R4-ES-2024-0073-0276	FWS	FWS-R4-ES-2024-0073	m30-hxd3-nuct	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Bettina	Bickel						
+FWS-R4-ES-2024-0073-0277	FWS	FWS-R4-ES-2024-0073	m30-hxrw-9sek	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carolyn	Massey	Quincy	Illinois				
+FWS-R4-ES-2024-0073-0278	FWS	FWS-R4-ES-2024-0073	m30-i0xp-uywx	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Judy	Desreuisseau	Gill	Massachusetts				
+FWS-R4-ES-2024-0073-0279	FWS	FWS-R4-ES-2024-0073	m30-ijxx-4vbf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Rob	Lozon						
+FWS-R4-ES-2024-0073-0280	FWS	FWS-R4-ES-2024-0073	m30-ikmp-3t2k	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	P	Caraher	Beverly Hills	California				
+FWS-R4-ES-2024-0073-0281	FWS	FWS-R4-ES-2024-0073	m30-ims5-jk4p	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	catherine	STANIUNAS	Northborough	Massachusetts				
+FWS-R4-ES-2024-0073-0282	FWS	FWS-R4-ES-2024-0073	m30-it5p-rxuf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Leslie	Blanchard						
+FWS-R4-ES-2024-0073-0283	FWS	FWS-R4-ES-2024-0073	m30-ivb5-njbt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	David	Brown	Pewaukee	Wisconsin				
+FWS-R4-ES-2024-0073-0284	FWS	FWS-R4-ES-2024-0073	m30-ivpq-bjh7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Venita	Baldwin	El Dorado Hills	California				
+FWS-R4-ES-2024-0073-0285	FWS	FWS-R4-ES-2024-0073	m30-ixt4-gudb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Corinne	Case		New Mexico				
+FWS-R4-ES-2024-0073-0286	FWS	FWS-R4-ES-2024-0073	m30-ixta-mhmq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Shelly	Kearns		Pennsylvania				
+FWS-R4-ES-2024-0073-0287	FWS	FWS-R4-ES-2024-0073	m30-izg4-w3qd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lauren	Barker	Howell	Michigan				
+FWS-R4-ES-2024-0073-0288	FWS	FWS-R4-ES-2024-0073	m30-j2d4-s2ez	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jamie	Green	Ventura	California				
+FWS-R4-ES-2024-0073-0289	FWS	FWS-R4-ES-2024-0073	m30-j5qd-z9ww	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Peggy	Victor	Port Saint Lucie	Florida				
+FWS-R4-ES-2024-0073-0290	FWS	FWS-R4-ES-2024-0073	m30-j843-6za8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Elaine	Hegh	Lansdale	Pennsylvania				
+FWS-R4-ES-2024-0073-0291	FWS	FWS-R4-ES-2024-0073	m30-jd6t-vsf0	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Barrett	Beloit	Wisconsin				
+FWS-R4-ES-2024-0073-0292	FWS	FWS-R4-ES-2024-0073	m30-jf8h-zlyh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Karen	White						
+FWS-R4-ES-2024-0073-0293	FWS	FWS-R4-ES-2024-0073	m30-jjhq-ia90	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Phala	Bowles	Roanoke	Virginia				
+FWS-R4-ES-2024-0073-0294	FWS	FWS-R4-ES-2024-0073	m30-jk7l-39ky	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eilene	Janke	Tucson	Arizona				
+FWS-R4-ES-2024-0073-0295	FWS	FWS-R4-ES-2024-0073	m30-jk7y-rv9u	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Cheryl	Watters	Daytona Beach	Florida				
+FWS-R4-ES-2024-0073-0296	FWS	FWS-R4-ES-2024-0073	m30-jp4d-7k4o	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Corinne	Ferre	Kodiak	Alaska				
+FWS-R4-ES-2024-0073-0297	FWS	FWS-R4-ES-2024-0073	m30-jpov-9eo9	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Vijaya	Ramcharitar	New York	New York				
+FWS-R4-ES-2024-0073-0298	FWS	FWS-R4-ES-2024-0073	m30-jslc-qvxb	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sheryl	Moran	Beverly Hills	California				
+FWS-R4-ES-2024-0073-0299	FWS	FWS-R4-ES-2024-0073	m30-jtfo-ae9b	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chris	R						
+FWS-R4-ES-2024-0073-0300	FWS	FWS-R4-ES-2024-0073	m30-jz6c-13o5	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Whitney	Watters	St Augustine	Florida				
+FWS-R4-ES-2024-0073-0301	FWS	FWS-R4-ES-2024-0073	m30-jzgr-05r7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mari	Dominguez		California				
+FWS-R4-ES-2024-0073-0302	FWS	FWS-R4-ES-2024-0073	m30-k1zg-cdns	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Robin	Jacobson						
+FWS-R4-ES-2024-0073-0303	FWS	FWS-R4-ES-2024-0073	m30-k5ra-w2fu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lorraine	Rengers		New York				
+FWS-R4-ES-2024-0073-0304	FWS	FWS-R4-ES-2024-0073	m30-k5v7-5r8b	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Judy	Schwartz	Los Angeles	California				
+FWS-R4-ES-2024-0073-0305	FWS	FWS-R4-ES-2024-0073	m30-k649-7ss6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dawn	Archibald-Corby	Halifax	Massachusetts				
+FWS-R4-ES-2024-0073-0306	FWS	FWS-R4-ES-2024-0073	m30-k6n5-1zer	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Fred	Schwartz	Los Angeles	California				
+FWS-R4-ES-2024-0073-0307	FWS	FWS-R4-ES-2024-0073	m30-k778-3lo1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Fred	Schwartz	Los Angeles	California				
+FWS-R4-ES-2024-0073-0308	FWS	FWS-R4-ES-2024-0073	m30-k7vs-9s6i	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Fred	Schwartz	Los Angeles	California				
+FWS-R4-ES-2024-0073-0309	FWS	FWS-R4-ES-2024-0073	m30-kb77-f1a6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dominique	Holy	Los Angeles	California				
+FWS-R4-ES-2024-0073-0310	FWS	FWS-R4-ES-2024-0073	m30-ke2q-ml5u	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Julianne C.	Schaefer	New City	New York				
+FWS-R4-ES-2024-0073-0311	FWS	FWS-R4-ES-2024-0073	m30-koeh-xaax	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Manon	RoÃŸ	Council Bluffs	Iowa				
+FWS-R4-ES-2024-0073-0312	FWS	FWS-R4-ES-2024-0073	m30-kp4t-ebyd	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Vin	Talwar	Arlington	Texas				
+FWS-R4-ES-2024-0073-0313	FWS	FWS-R4-ES-2024-0073	m30-kqxx-4a5s	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mary Foley	Foley	El Dorado Hills	California				
+FWS-R4-ES-2024-0073-0314	FWS	FWS-R4-ES-2024-0073	m30-ksga-ezu8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	John	Marro						
+FWS-R4-ES-2024-0073-0315	FWS	FWS-R4-ES-2024-0073	m30-kvoo-nsd2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chris	Leverich	Playa Del Rey	California				
+FWS-R4-ES-2024-0073-0316	FWS	FWS-R4-ES-2024-0073	m30-kx58-kzly	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Patty	Duffy	Canal Winchester	Ohio				
+FWS-R4-ES-2024-0073-0317	FWS	FWS-R4-ES-2024-0073	m30-l445-jnua	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Debbie	Vogel	Weimar					
+FWS-R4-ES-2024-0073-0318	FWS	FWS-R4-ES-2024-0073	m30-l5wp-erky	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jill	Brown	Midland	Michigan				
+FWS-R4-ES-2024-0073-0319	FWS	FWS-R4-ES-2024-0073	m30-lfq5-4eas	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dana	Simone	Hillsdale	New Jersey				
+FWS-R4-ES-2024-0073-0320	FWS	FWS-R4-ES-2024-0073	m30-lfuc-mlet	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sally	Madigan	Meadow Vista	California				
+FWS-R4-ES-2024-0073-0321	FWS	FWS-R4-ES-2024-0073	m30-lg9i-6heh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	TAMI	PHELPS						
+FWS-R4-ES-2024-0073-0322	FWS	FWS-R4-ES-2024-0073	m30-ljqo-7kr3	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Pearl	Foster	Milwaukee	Wisconsin				
+FWS-R4-ES-2024-0073-0323	FWS	FWS-R4-ES-2024-0073	m30-lp67-cwc1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Roger	Anker	Matteson	Illinois				
+FWS-R4-ES-2024-0073-0324	FWS	FWS-R4-ES-2024-0073	m30-lqk0-ku6s	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Terri	Robertson	Terryville	Connecticut				
+FWS-R4-ES-2024-0073-0325	FWS	FWS-R4-ES-2024-0073	m30-lqy0-88jr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Christine	Chaplik	Liberty	North Carolina				
+FWS-R4-ES-2024-0073-0326	FWS	FWS-R4-ES-2024-0073	m30-lu9w-9e1o	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Janice	Zetah	Tempe	Arizona				
+FWS-R4-ES-2024-0073-0327	FWS	FWS-R4-ES-2024-0073	m30-m1ac-k7bn	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Angela	Clayton	Oceanside	California				
+FWS-R4-ES-2024-0073-0328	FWS	FWS-R4-ES-2024-0073	m30-m4ni-rxxw	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	George	Neste	High Point	North Carolina				
+FWS-R4-ES-2024-0073-0329	FWS	FWS-R4-ES-2024-0073	m30-mbxu-aojf	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sonja	Sutherland	Mcpherson	Kansas				
+FWS-R4-ES-2024-0073-0330	FWS	FWS-R4-ES-2024-0073	m30-mcsj-p1k4	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Chad	Kapusta	Oceanside	California				
+FWS-R4-ES-2024-0073-0331	FWS	FWS-R4-ES-2024-0073	m30-mf3d-rrqk	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Bobbi	Drake	Lakewood	Colorado				
+FWS-R4-ES-2024-0073-0332	FWS	FWS-R4-ES-2024-0073	m30-mhiv-p3lq	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Karen	Wolters	Longwood	Florida				
+FWS-R4-ES-2024-0073-0333	FWS	FWS-R4-ES-2024-0073	m30-mmru-0ram	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Monika	Sipe		Michigan				
+FWS-R4-ES-2024-0073-0334	FWS	FWS-R4-ES-2024-0073	m30-mpm1-r9up	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Don	Dudan	Walnut Creek	California				
+FWS-R4-ES-2024-0073-0335	FWS	FWS-R4-ES-2024-0073	m30-munl-db0p	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Megan	Odle	Waverly	Tennessee				
+FWS-R4-ES-2024-0073-0336	FWS	FWS-R4-ES-2024-0073	m30-mz96-afsu	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	lyn	cap	Great Neck	New York				
+FWS-R4-ES-2024-0073-0337	FWS	FWS-R4-ES-2024-0073	m30-n085-74a1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	shaye	pyper	Sandy	Utah				
+FWS-R4-ES-2024-0073-0338	FWS	FWS-R4-ES-2024-0073	m30-n7e8-ln3y	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mary Pat	Wylie	Ballwin	Missouri				
+FWS-R4-ES-2024-0073-0339	FWS	FWS-R4-ES-2024-0073	m30-nd8x-w50o	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	George	Speros	New York	New York				
+FWS-R4-ES-2024-0073-0340	FWS	FWS-R4-ES-2024-0073	m30-nyn4-b49y	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Barbara	Damm	Neptune	New Jersey				
+FWS-R4-ES-2024-0073-0341	FWS	FWS-R4-ES-2024-0073	m30-o57k-hg8t	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Claire	Flewitt	San Leandro	California				
+FWS-R4-ES-2024-0073-0342	FWS	FWS-R4-ES-2024-0073	m30-o8hl-3dc1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	susan	deschenes	Fernley	Nevada				
+FWS-R4-ES-2024-0073-0343	FWS	FWS-R4-ES-2024-0073	m30-o905-lo2f	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Debbie	Gregory	Oxnard	California				
+FWS-R4-ES-2024-0073-0344	FWS	FWS-R4-ES-2024-0073	m30-obv3-7zv1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eric	Esposito	Brooklyn	New York				
+FWS-R4-ES-2024-0073-0345	FWS	FWS-R4-ES-2024-0073	m30-ogxn-7mc2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Julia	Testin	Hawthorn Woods	Illinois				
+FWS-R4-ES-2024-0073-0346	FWS	FWS-R4-ES-2024-0073	m30-opw9-owa6	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jack	Block	Schaumburg	Illinois				
+FWS-R4-ES-2024-0073-0347	FWS	FWS-R4-ES-2024-0073	m30-oqcu-vg7o	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Carmen	Miranda	Bayamon	Puerto Rico				
+FWS-R4-ES-2024-0073-0348	FWS	FWS-R4-ES-2024-0073	m30-oreg-jy1i	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Lisa	Forest						
+FWS-R4-ES-2024-0073-0349	FWS	FWS-R4-ES-2024-0073	m30-otql-hind	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Divya	Rathor	Sammamish	Washington				
+FWS-R4-ES-2024-0073-0350	FWS	FWS-R4-ES-2024-0073	m30-otxs-x9wp	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Harriette	Frank	Durham	North Carolina				
+FWS-R4-ES-2024-0073-0351	FWS	FWS-R4-ES-2024-0073	m30-owuk-g1vv	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Trina	Takahashi	Brentwood	California				
+FWS-R4-ES-2024-0073-0352	FWS	FWS-R4-ES-2024-0073	m30-oy7h-d2e2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	karina	huising						
+FWS-R4-ES-2024-0073-0353	FWS	FWS-R4-ES-2024-0073	m30-oyng-8jwh	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mark	Huising						
+FWS-R4-ES-2024-0073-0354	FWS	FWS-R4-ES-2024-0073	m30-oz51-qplz	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	luca	huising						
+FWS-R4-ES-2024-0073-0355	FWS	FWS-R4-ES-2024-0073	m30-ozgr-f3wc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	masami	hirose						
+FWS-R4-ES-2024-0073-0356	FWS	FWS-R4-ES-2024-0073	m30-ozvo-dz58	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	hyerin	kim						
+FWS-R4-ES-2024-0073-0357	FWS	FWS-R4-ES-2024-0073	m30-p0z7-c46d	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Roland	Romo						
+FWS-R4-ES-2024-0073-0358	FWS	FWS-R4-ES-2024-0073	m30-p2ea-k949	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Patricia	Smith	Montgomery	Alabama				
+FWS-R4-ES-2024-0073-0359	FWS	FWS-R4-ES-2024-0073	m30-pbpy-pmoc	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Vilma	Southwick	Loveland	Colorado				
+FWS-R4-ES-2024-0073-0360	FWS	FWS-R4-ES-2024-0073	m30-pdcq-t9un	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Michele	Bacher	Fridley	Minnesota				
+FWS-R4-ES-2024-0073-0361	FWS	FWS-R4-ES-2024-0073	m30-pnsq-6ue7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Sara	Fogan	Santa Clarita	California				
+FWS-R4-ES-2024-0073-0362	FWS	FWS-R4-ES-2024-0073	m30-ppzf-khcr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Anne	Chamb						
+FWS-R4-ES-2024-0073-0363	FWS	FWS-R4-ES-2024-0073	m30-q0sj-6y6h	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Gary	Thaler	Revere	Massachusetts				
+FWS-R4-ES-2024-0073-0364	FWS	FWS-R4-ES-2024-0073	m30-q3o2-1r5q	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Shannon	Bingham	Marion	North Carolina				
+FWS-R4-ES-2024-0073-0365	FWS	FWS-R4-ES-2024-0073	m30-qcbs-95c1	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Heidi	Hart-Zorin	Portland	Oregon				
+FWS-R4-ES-2024-0073-0366	FWS	FWS-R4-ES-2024-0073	m30-qcjl-4bfr	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Nancy	Hile	Columbus	Ohio				
+FWS-R4-ES-2024-0073-0367	FWS	FWS-R4-ES-2024-0073	m30-qgr0-v47i	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Betty	Kowall	Penngrove	California				
+FWS-R4-ES-2024-0073-0368	FWS	FWS-R4-ES-2024-0073	m30-qo4z-ghyg	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Dayna	Thomas	Richfield	Minnesota				
+FWS-R4-ES-2024-0073-0369	FWS	FWS-R4-ES-2024-0073	m30-quqo-y1l7	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jennifer	Burish	Manitowoc	Wisconsin				
+FWS-R4-ES-2024-0073-0370	FWS	FWS-R4-ES-2024-0073	m30-qzgw-yeyt	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Mike	Lanka	Maricopa	Arizona				
+FWS-R4-ES-2024-0073-0371	FWS	FWS-R4-ES-2024-0073	m30-r4xb-5jo2	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jennifer	Shull	Bothell	Washington				
+FWS-R4-ES-2024-0073-0372	FWS	FWS-R4-ES-2024-0073	m30-r6cw-vvc8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Eric	Yurkanin	Atlanta	Georgia				
+FWS-R4-ES-2024-0073-0373	FWS	FWS-R4-ES-2024-0073	m30-r9c0-vc9h	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Joyce	O'Malley	Lake Forest Park	Washington				
+FWS-R4-ES-2024-0073-0374	FWS	FWS-R4-ES-2024-0073	m30-rdls-wzx8	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Jennifer	Schally	Stillwater	Minnesota				
+FWS-R4-ES-2024-0073-0375	FWS	FWS-R4-ES-2024-0073	m30-reyf-sj3h	Public Submission	2024-11-04T05:00Z	2024-11-02T04:00Z		Comment(s)	Silvia	Rocha	Azusa	California				
+
